@@ -1,4 +1,4 @@
-# Animal Simulator 🐾
+# Animal Simulator 🐟
 
 ## Description
 This project introduces a simple Python-based simulator for animals. With the `Animal` class, users can model various properties and behaviors of an animal, such as its name, age, position, and direction.
